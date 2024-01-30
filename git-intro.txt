@@ -1,0 +1,42 @@
+github - website - remotely code share
+
+git - version controling tool/software
+
+repository - folder
+commit - save
+fork - complete copy
+
+ecommers -1.0
+ecomm -1.1
+ecomm -1.1.2
+ecomm -1.0
+
+SDLC - software development life cycle
+
+
+Patch - small peice of code of repository
+
+git init
+git config --global user.name "manjeet"
+git config --global user.email "manjeet@gmail.com"
+git config --list    (list of updated data )
+
+
+Working Area  ->  Tracked Area  -> Unstaged  -> Staged
+
+-------git branches-------------------------
+   -git branch
+
+   -git checkout master
+
+   -git pull origin master
+
+   -git branch --merge
+
+   - git merge (branch name)
+
+   -git push -u origin master
+
+   -git log   = (to check the comits)
+
+   -
